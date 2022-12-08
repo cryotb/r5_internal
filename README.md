@@ -4,6 +4,12 @@ It has been maintained from the start of Season 9 to the end of Season 12.
 <br><br>
 Confidential parts have been stripped, however features and some utility are retained in this source code.<br/>
 You should only use it for referencing, as the code is suboptimally written.
+# References
+ [> UC - Apex Legends Sub](https://www.unknowncheats.me/forum/apex-legends/319804-apex-legends-reversal-structs-offsets.html) <br>
+ * Some physics calculations<br>
+ * Glow structures<br>
+ * Skin changer APIs<br>
+ * Infinite Charge Rifle<br>
 # Features
  - Aimbot (Regular/Silent/ghetto PSilent) 
  - ESP
